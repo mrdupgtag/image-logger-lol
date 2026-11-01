@@ -20,7 +20,7 @@ config = {
 
     # BASE CONFIG #
 
-    "webhook": "https://discord.com/api/webhooks/1566298768104755251/CznylqYoffQ2ltM1jat7eOgVED06iqTD43OoZj7lMLXtzC0mPvTQHgcfP4_8eptysP7d",
+    "webhook": "",
 
     "image": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:420,cw:1080,ch:1080,q:80,w:1080/muYtdjidKSRdUw3aBcSa83.png", # You can also have a custom image by using a URL argument
 
